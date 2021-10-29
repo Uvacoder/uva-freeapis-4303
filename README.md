@@ -1,5 +1,7 @@
 # [Free APIs](https://free-apis.github.io)
 
+https://github.com/Free-APIs/Free-APIs.github.io.git
+
 _A collection of free APIs for new and experienced developers, derived from [Public APIs](https://github.com/public-apis/public-apis)._
 
 ![](dev1366.png)
