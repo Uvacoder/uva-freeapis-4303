@@ -5,7 +5,7 @@ function Footer(props) {
 		if (props.about) {
 			return (
 				<a
-					href='https://github.com/Free-APIs/Free-APIs.github.io/'
+					href='https://github.com/uvacoder/free-apis/'
 					target='_blank'
 					rel='noreferrer'
 				>
