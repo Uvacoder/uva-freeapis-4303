@@ -5,7 +5,7 @@ import Browse from './pages/Browse';
 import Categories from './pages/Categories';
 import Category from './pages/Category';
 import ScrollToTop from './components/ScrollToTop';
-import Tracking from './components/Tracking';
+// import Tracking from './components/Tracking';
 import NotFound from './pages/NotFound';
 import HelpPage from './pages/HelpPage';
 
