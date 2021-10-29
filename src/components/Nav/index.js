@@ -21,7 +21,7 @@ function Nav() {
 					</div>
 				</Link>
 				<a
-					href='https://github.com/Free-APIs/Free-APIs.github.io'
+					href='https://github.com/uvacoder/free-apis'
 					target='_blank'
 					rel='noreferrer'
 					className='text-white hover:text-gray-300 cursor-pointer 
