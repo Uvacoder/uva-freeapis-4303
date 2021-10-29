@@ -10,7 +10,7 @@ import NotFound from './pages/NotFound';
 import HelpPage from './pages/HelpPage';
 
 function App() {
-	Tracking();
+	// Tracking();
 
 	return (
 		<>
