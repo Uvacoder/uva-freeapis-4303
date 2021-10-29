@@ -16,7 +16,7 @@ function About() {
                     from-gray-100 to-gray-200 shadow-lg'
 				>
 					<div className='text-2xl xs:text-3xl m-2'>
-						About Free APIs
+						About website
 					</div>
 					<img src={logo} className='m-2 h-44' alt='logo' />
 					<div
@@ -47,7 +47,7 @@ function About() {
 						<br />
 						Go ahead and
 						<a
-							href='https://github.com/Free-APIs/Free-APIs.github.io/issues'
+							href='https://github.com/uvacoder/free-apis/issues'
 							rel='noreferrer'
 							target='_blank'
 							className='text-gray-800 inline font-medium'
@@ -57,7 +57,7 @@ function About() {
 						if you have any optimizations, improvements, or
 						suggestions. If you'd like to get in touch,
 						<a
-							href='mailto:freeapis256@gmail.com?subject=Hey%20there!'
+							href='mailto:freeunioncoder@gmail.com?subject=Hey%20there!'
 							rel='noreferrer'
 							target='_blank'
 							className='text-gray-800 inline font-medium'
